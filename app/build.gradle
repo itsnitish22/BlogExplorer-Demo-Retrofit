@@ -36,6 +36,9 @@ android {
     }
 }
 
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
 dependencies {
 
     implementation 'androidx.core:core-ktx:1.7.0'
@@ -51,5 +54,8 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
     implementation 'com.squareup.retrofit2:converter-moshi:2.9.0'
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0"
+
+    implementation 'com.google.firebase:firebase-bom:29.0.3'
+    implementation 'com.google.firebase:firebase-analytics-ktx'
 
 }

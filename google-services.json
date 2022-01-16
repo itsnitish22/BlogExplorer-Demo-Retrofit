@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783147595086",
+    "project_id": "blogexplorer-demo-retrofit",
+    "storage_bucket": "blogexplorer-demo-retrofit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783147595086:android:12df0be2f0917d30041a1f",
+        "android_client_info": {
+          "package_name": "com.example.blogexplorer_demo_retrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783147595086-g5ieanqo9rgo5jirv84ftldffpttih6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRoNWQS0bgHzC-YmtAWtBEgaM7HQVdjD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783147595086-g5ieanqo9rgo5jirv84ftldffpttih6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
